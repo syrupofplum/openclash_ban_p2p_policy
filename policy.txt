@@ -1,0 +1,21 @@
+## p2p
+## douyu
+- DOMAIN-SUFFIX,stun.douyucdn.cn,REJECT
+- DOMAIN-SUFFIX,stun1.douyucdn.cn,REJECT
+- DOMAIN-SUFFIX,dyp2p-hw.douyucdn.cn,REJECT
+- DOMAIN-SUFFIX,stun-h5.qvb.qcloud.com,REJECT
+- DOMAIN-SUFFIX,tracker-00.qvb.qcloud.com,REJECT
+- DOMAIN-SUFFIX,p2perrorlog.douyucdn.cn,REJECT
+## iqiyi
+- DOMAIN-SUFFIX,flux.hcdn.71edge.com,REJECT
+## bilibili
+- DOMAIN-SUFFIX,web-player-tracker.biliapi.net,REJECT
+- DOMAIN-SUFFIX,hw-web-player-tracker.biliapi.net,REJECT
+## hitv
+- DOMAIN-SUFFIX,stun.hitv.com,REJECT
+
+## stream
+- DOMAIN-SUFFIX,cdn.steampipe.steamcontent.com,DIRECT
+- DOMAIN-SUFFIX,steampipe.akamaized.net,DIRECT
+- DOMAIN-SUFFIX,steamcontent.com,DIRECT
+- DOMAIN-SUFFIX,steamcdn-a.akamaihd.net,DIRECT
